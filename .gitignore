@@ -30,9 +30,14 @@ img/
 #videos
 *.pm4
 #packages
+node_modules/
+jspm_packages/
+
 
 #log
 *.log
 
+#password
 password.txt
+
 
